@@ -4,6 +4,6 @@
 - 💥 Tech Tools: Jira, Blazor, Jenkins, Github, Docker, Confluence
 - 💎 Professional Experience: 4 years
 - 📃 Highest Educational Degree: Bachelors in Computer Science w/ Concentration in Software Development
-- ⚠️ Currently Pursuing Master's Degree
+- ⚠️ Currently Pursuing Master's Degree in Computer Science & AI/ML
 - ❗ Interests/Hobbies: Sports, Video games, Fantasy Football, Anime/Manga, Music, Chess
   
